@@ -81,19 +81,3 @@
 
 </p>        
 <!--- stats (end) -->
-
-
-<br>
-<div align="center">
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">🐍 My Contributions 🐍</h2></summary>
-  </ul>
-</div>
-  <!-- <h2>🐍 My Contributions 🐍</h2> -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TesifonJ/TesifonJ/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TesifonJ/TesifonJ/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TesifonJ/TesifonJ/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
